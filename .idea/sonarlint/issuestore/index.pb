@@ -13,8 +13,6 @@ A
 .eslintrc.js,d/b/dbc0c31823b8f2e4ed04a397722fed33a67f123f
 A
 public/vercel.svg,0/c/0c3567b3146da917779092b6952cf7aa844d3c76
-M
-.github/workflows/deploy.yml ,8/7/876e56a40791e72c3085e91c13d38cd1df03ce48
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
@@ -56,3 +54,9 @@ T
 $src/types/components/ProjectProps.ts,3/0/3005dca5b05cc31b9a957cd33e2af43b5af4b14c
 B
 tailwind.config.ts,5/2/52c961376029165b06e7861b1dc68c3b2455eeff
+C
+src/app/globals.css,d/a/da1d6f21d01d0f36b5501dffcf7fd160ffcb290d
+>
+next.config.js,8/1/811a6d5a2e04fadb44d8eec365f2fa8af5c4facf
+@
+src/app/page.tsx,3/3/3393394e21dbac7686e91ad17c5283fb052d67f3

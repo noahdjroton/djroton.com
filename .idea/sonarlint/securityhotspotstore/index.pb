@@ -54,5 +54,9 @@ B
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
-M
-.github/workflows/deploy.yml ,8/7/876e56a40791e72c3085e91c13d38cd1df03ce48
+C
+src/app/globals.css,d/a/da1d6f21d01d0f36b5501dffcf7fd160ffcb290d
+>
+next.config.js,8/1/811a6d5a2e04fadb44d8eec365f2fa8af5c4facf
+@
+src/app/page.tsx,3/3/3393394e21dbac7686e91ad17c5283fb052d67f3
