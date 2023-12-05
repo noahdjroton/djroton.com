@@ -1,5 +1,5 @@
 import Header from "@/components/Header";
-import Profile from "../../public/images/profile-picture.png";
+import Profile from "@/assets/profile-picture.png";
 import React from "react";
 import Image from "next/image";
 import { Metadata } from "next";
@@ -23,10 +23,7 @@ function Home() {
         <>
             <Header />
             <main className="container min-h-screen w-full mx-auto max-w-7xl">
-                <section
-                    id="hero"
-                    className="h-auto pt-24 flex flex-col items-start min-h-screen p-0 mx-auto max-w-[900px] justify-center"
-                >
+                <section id="hero" className="h-auto pt-24 flex flex-col items-start min-h-screen p-0 mx-auto max-w-[900px] justify-center">
                     <div className="delay-100">
                         <h1 className="text-sm">{"Salut 👋🏽, je m'appelle"}</h1>
                     </div>

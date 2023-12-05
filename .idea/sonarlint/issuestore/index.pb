@@ -7,8 +7,6 @@ A
 .husky/pre-commit,a/b/ab6c0c74cc7cd7c8c8b24da380d18aa4667658ae
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
->
-next.config.js,8/1/811a6d5a2e04fadb44d8eec365f2fa8af5c4facf
 A
 postcss.config.js,3/f/3f70684581fd16ab3be77ca959e0138ef3ee8bfb
 =
