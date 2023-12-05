@@ -1,6 +1,8 @@
 import type { Config } from 'tailwindcss'
+import { fontFamily } from 'tailwindcss/defaultTheme';
 
 const config: Config = {
+  darkMode: ["class"],
   content: [
     './src/pages/**/*.{js,ts,jsx,tsx,mdx}',
     './src/components/**/*.{js,ts,jsx,tsx,mdx}',
@@ -12,6 +14,11 @@ const config: Config = {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
+      },
+      fontFamily: {
+        sans: ["var(--font-sans)", ...fontFamily.sans],
+        "font-sans": ["Calibre","Inter",'"San Francisco"','"SF Pro Text"',"-apple-system","system-ui","sans-serif"],
+        "font-mono": ['"SF Mono"','"Fira Code"','"Fira Mono"','"Roboto Mono"',"monospace"],
       },
     },
   },
