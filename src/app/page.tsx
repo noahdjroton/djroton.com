@@ -1,5 +1,5 @@
 import Header from "@/components/Header";
-import Profile from "@/assets/profile-picture.png";
+import Profile from "../../public/images/profile-picture.png";
 import React from "react";
 import Image from "next/image";
 import { Metadata } from "next";
