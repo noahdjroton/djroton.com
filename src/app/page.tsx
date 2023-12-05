@@ -44,7 +44,7 @@ function Home() {
                         <p className="mt-5 mb-0 ml-0 max-w-screen-sm leading-relaxed">
                             {"J'aime créer des outils numériques qui ajoutent de la valeur à la vie des utilisateurs.\n" +
                                 "\n" +
-                                "J'utilise mes compétences techniques et ma vision créative pour concevoir des logicielsqui répondent aux besoins des utilisateurs.\n" +
+                                "J'utilise mes compétences techniques et ma vision créative pour concevoir des logiciels qui répondent aux besoins des utilisateurs.\n" +
                                 "\n" +
                                 "Je travaille actuellement chez Foxtech, où je contribue au développement de produits et de services qui améliorent la vie des gens."}
                         </p>

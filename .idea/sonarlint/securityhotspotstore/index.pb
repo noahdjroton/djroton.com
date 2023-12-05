@@ -58,5 +58,3 @@ C
 src/app/globals.css,d/a/da1d6f21d01d0f36b5501dffcf7fd160ffcb290d
 >
 next.config.js,8/1/811a6d5a2e04fadb44d8eec365f2fa8af5c4facf
-@
-src/app/page.tsx,3/3/3393394e21dbac7686e91ad17c5283fb052d67f3
