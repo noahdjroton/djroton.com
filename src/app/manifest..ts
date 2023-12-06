@@ -2,8 +2,8 @@ import { MetadataRoute } from "next";
 
 export default function manifest(): MetadataRoute.Manifest {
     return {
-        name: "Djroton SOSSOU",
-        short_name: "Djroton SOSSOU",
+        name: "Djroton Sossou",
+        short_name: "Djroton Sossou",
         description:
             "Développeur logiciel passionné. Développeur Fullstack Typescript, Nextjs, Python, Django, Swift. Actuellement chez Foxtech.",
         start_url: "/",

@@ -14,7 +14,7 @@ import { projects } from "@/data/projects";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-    title: "Djroton SOSSOU",
+    title: "Djroton Sossou",
     description:
         "Développeur logiciel passionné. Développeur Fullstack Typescript, Nextjs, Python, Django, Swift. Actuellement chez Foxtech.",
 };
