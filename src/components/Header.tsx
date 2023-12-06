@@ -12,9 +12,9 @@ export default function Header() {
         { title: "Contact", path: "#contact" },
     ];
     return (
-        <header className="flex items-center sticky top-0 z-50 container mx-auto w-full lg:h-[var(--nav-height)] backdrop-blur-[10px] transition-[var(--transition)]">
+        <header className="flex items-center sticky top-0 z-50 container mx-auto w-full lg:h-[var(--nav-height)] backdrop-blur-[25px] transition-[var(--transition)]">
             <nav className="lg:flex relative w-full z-12">
-                <div className="flex justify-between items-center lg:py-0 md:py-0Z py-6">
+                <div className="flex justify-between items-center lg:py-0 py-6">
                     <div className="flex items-center">
                         <Link href="#hero">
                             <span className="text-xl font-extrabold font-mono">
@@ -40,7 +40,7 @@ export default function Header() {
                         openMenu ? "block" : "hidden"
                     }`}
                 >
-                    <ul className="justify-end items-center space-y-4 flex md:space-x-6 md:space-y-0 lg:py-0 py-2 text-xs">
+                    <ul className="justify-end items-center space-y-4 md:flex md:space-x-6 md:space-y-0 lg:py-0 py-2 text-xs block">
                         {menus.map(item => (
                             <li key={item.path}>
                                 <Link
