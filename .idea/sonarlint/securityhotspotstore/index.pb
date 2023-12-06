@@ -17,8 +17,6 @@ B
 src/app/layout.tsx,c/f/cfb47de6ae0cae626eed46461300112ef521d977
 L
 src/components/ui/button.tsx,c/a/ca8cd7201dceb3d74e6c355788edad81f3d2245e
-I
-src/components/Header.tsx,a/e/aeb164160f025a7bc1eca5644891a8294266ea1a
 D
 src/data/projects.ts,a/8/a869f37ffcd5c0901b11b4856a99b32c4dd41483
 Q
@@ -54,7 +52,5 @@ B
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
-C
-src/app/globals.css,d/a/da1d6f21d01d0f36b5501dffcf7fd160ffcb290d
 >
 next.config.js,8/1/811a6d5a2e04fadb44d8eec365f2fa8af5c4facf

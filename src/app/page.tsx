@@ -15,17 +15,18 @@ import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
     title: "Djroton SOSSOU",
-    description: "Djroton SOSSOU",
+    description:
+        "Développeur logiciel passionné. Développeur Fullstack Typescript, Nextjs, Python, Django, Swift. Actuellement chez Foxtech.",
 };
 
 function Home() {
     return (
         <>
             <Header />
-            <main className="container min-h-screen w-full mx-auto max-w-7xl">
+            <main className="min-h-screen w-full container mx-auto max-w-7xl">
                 <section
                     id="hero"
-                    className="h-auto pt-24 flex flex-col items-start min-h-screen p-0 mx-auto max-w-[900px] justify-center"
+                    className="h-auto flex flex-col items-start min-h-screen p-0 mx-auto max-w-[900px] justify-center"
                 >
                     <div className="delay-100">
                         <h1 className="text-sm">{"Salut 👋🏽, je m'appelle"}</h1>

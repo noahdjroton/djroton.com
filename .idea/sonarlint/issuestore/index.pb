@@ -26,8 +26,6 @@ B
 src/app/layout.tsx,c/f/cfb47de6ae0cae626eed46461300112ef521d977
 I
 src/components/Footer.tsx,6/a/6a1906fbef47b21e13258a3accfe644e256f3344
-I
-src/components/Header.tsx,a/e/aeb164160f025a7bc1eca5644891a8294266ea1a
 M
 src/components/ModeToggle.tsx,c/1/c158224b692ab49aa36c86f6b2c13fc8f735d331
 N
@@ -54,7 +52,5 @@ T
 $src/types/components/ProjectProps.ts,3/0/3005dca5b05cc31b9a957cd33e2af43b5af4b14c
 B
 tailwind.config.ts,5/2/52c961376029165b06e7861b1dc68c3b2455eeff
-C
-src/app/globals.css,d/a/da1d6f21d01d0f36b5501dffcf7fd160ffcb290d
 >
 next.config.js,8/1/811a6d5a2e04fadb44d8eec365f2fa8af5c4facf
