@@ -13,12 +13,8 @@ A
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 A
 public/vercel.svg,0/c/0c3567b3146da917779092b6952cf7aa844d3c76
-B
-src/app/layout.tsx,c/f/cfb47de6ae0cae626eed46461300112ef521d977
 L
 src/components/ui/button.tsx,c/a/ca8cd7201dceb3d74e6c355788edad81f3d2245e
-D
-src/data/projects.ts,a/8/a869f37ffcd5c0901b11b4856a99b32c4dd41483
 Q
 !src/components/theme-provider.tsx,3/6/36b80debcfa1e41c639907a003d1cd472274abb7
 ?
@@ -52,5 +48,25 @@ B
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+=
+tsconfig.json,6/1/61ebb9fd6e8cf9082658121d5d81e297791dacd0
+B
+src/app/layout.tsx,c/f/cfb47de6ae0cae626eed46461300112ef521d977
+O
+src/app/opengraph-image.alt.txt,3/b/3b55175e369853c61dfc2b239260e4a4aacbe1c3
+M
+src/app/twitter-image.alt.txt,6/5/652acbb44f3f16e09350871e11c6430873822092
+A
+src/app/about.txt,f/3/f3d539b0c36e28a4e0e107185765f6ddbf9c565d
+H
+src/app/site.webmanifest,e/7/e76db1fed8e6ad3b187bf08b3b4577e53abead98
+B
+src/app/robots.txt,d/6/d60b6b47746a5b7c87a2f89b0a5e29170f799160
+B
+src/app/sitemap.ts,d/c/dc37724f6bc418bba3e45c3f1740aa0f3ffd8ebe
+C
+src/app/globals.css,d/a/da1d6f21d01d0f36b5501dffcf7fd160ffcb290d
 >
-next.config.js,8/1/811a6d5a2e04fadb44d8eec365f2fa8af5c4facf
+pnpm-lock.yaml,a/8/a829ed6336deb68f9874e5da490e1ec440b0e9b7
+A
+package-lock.json,f/a/fa288d1472d29beccb489a676f68739ad365fc47

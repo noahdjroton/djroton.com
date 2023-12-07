@@ -7,9 +7,9 @@ import { Cross1Icon, HamburgerMenuIcon } from "@radix-ui/react-icons";
 export default function Header() {
     const [openMenu, setOpenMenu] = useState(false);
     const menus = [
-        { title: "About", path: "#about" },
-        { title: "Projects", path: "#projects" },
-        { title: "Contact", path: "#contact" },
+        { title: "A propos", path: "#about" },
+        { title: "Mes projets", path: "#projects" },
+        { title: "Notes & Réflexions", path: "#notes_thoughts" }
     ];
     return (
         <header className="flex items-center sticky top-0 z-50 container mx-auto w-full lg:h-[var(--nav-height)] backdrop-blur-[25px] transition-[var(--transition)]">
@@ -43,8 +43,7 @@ export default function Header() {
                     <ul className="justify-end items-center space-y-4 md:flex md:space-x-6 md:space-y-0 lg:py-0 py-2 text-xs block">
                         {menus.map(item => (
                             <li key={item.path}>
-                                <Link
-                                    href={item.path}
+                                <Link href={item.path}
                                     className="mx-1 relative transition hover:text-gray-500/75"
                                 >
                                     {item.title}

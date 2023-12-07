@@ -22,8 +22,6 @@ A
 components.json,c/7/c77795c1a93b077ad2aef052b6a976d9dc92f5b8
 ?
 public/next.svg,0/f/0f0d3de08f3cde5481ae7a36082cdc12c93b0f89
-B
-src/app/layout.tsx,c/f/cfb47de6ae0cae626eed46461300112ef521d977
 I
 src/components/Footer.tsx,6/a/6a1906fbef47b21e13258a3accfe644e256f3344
 M
@@ -40,8 +38,6 @@ S
 #src/components/ui/dropdown-menu.tsx,e/4/e4656c7faae87b6de20f42a10a8b19b82a5d5bb0
 O
 src/components/ui/separator.tsx,e/f/ef551b21fabe0a671532ef42961127a31afd4f32
-D
-src/data/projects.ts,a/8/a869f37ffcd5c0901b11b4856a99b32c4dd41483
 @
 src/lib/utils.ts,b/6/b64d1893e69ac0511cda386a979ec589465b7fe7
 X
@@ -52,5 +48,25 @@ T
 $src/types/components/ProjectProps.ts,3/0/3005dca5b05cc31b9a957cd33e2af43b5af4b14c
 B
 tailwind.config.ts,5/2/52c961376029165b06e7861b1dc68c3b2455eeff
+=
+tsconfig.json,6/1/61ebb9fd6e8cf9082658121d5d81e297791dacd0
+B
+src/app/layout.tsx,c/f/cfb47de6ae0cae626eed46461300112ef521d977
+O
+src/app/opengraph-image.alt.txt,3/b/3b55175e369853c61dfc2b239260e4a4aacbe1c3
+M
+src/app/twitter-image.alt.txt,6/5/652acbb44f3f16e09350871e11c6430873822092
+A
+src/app/about.txt,f/3/f3d539b0c36e28a4e0e107185765f6ddbf9c565d
+B
+src/app/robots.txt,d/6/d60b6b47746a5b7c87a2f89b0a5e29170f799160
+C
+src/app/globals.css,d/a/da1d6f21d01d0f36b5501dffcf7fd160ffcb290d
+H
+src/app/site.webmanifest,e/7/e76db1fed8e6ad3b187bf08b3b4577e53abead98
+B
+src/app/sitemap.ts,d/c/dc37724f6bc418bba3e45c3f1740aa0f3ffd8ebe
+A
+package-lock.json,f/a/fa288d1472d29beccb489a676f68739ad365fc47
 >
-next.config.js,8/1/811a6d5a2e04fadb44d8eec365f2fa8af5c4facf
+pnpm-lock.yaml,a/8/a829ed6336deb68f9874e5da490e1ec440b0e9b7

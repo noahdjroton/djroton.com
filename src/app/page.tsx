@@ -101,7 +101,7 @@ function Home() {
                     className="visible opacity-100 transform transition-all duration-500 ease-out delay-200 max-w-[900px] mx-auto py-24"
                 >
                     <h2 className="font-semibold leading-[1.1] flex items-center relative m-2 mb-10 w-full whitespace-nowrap numbered-heading">
-                        {"About Me"}
+                        {"A propos"}
                     </h2>
                     <div className="grid lg:grid-cols-[3fr,2fr] gap-12">
                         <div className="text-sm text-gray-500 dark:text-gray-400">
@@ -164,7 +164,7 @@ function Home() {
                     className="visible opacity-100 transform transition-all duration-500 ease-out delay-200 max-w-[900px] mx-auto py-24"
                 >
                     <h2 className="font-semibold leading-[1.1] flex items-center relative m-2 mb-10 w-full whitespace-nowrap numbered-heading">
-                        {"Projects"}
+                        {"Mes projets"}
                     </h2>
                     <ProjectList projects={projects} />
                 </section>
